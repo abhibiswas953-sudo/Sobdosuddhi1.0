@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Open manuscript page silhouette -->
+    <path
+        android:fillColor="#FAF8F3"
+        android:pathData="M34,30 C34,27.8 35.8,26 38,26 L70,26 C72.2,26 74,27.8 74,30 L74,78 C74,80.2 72.2,82 70,82 L38,82 C35.8,82 34,80.2 34,78 Z" />
+    <!-- Subtle editorial lines on page -->
+    <path
+        android:fillColor="#D8D2C5"
+        android:pathData="M42,38 L66,38 L66,41 L42,41 Z M42,46 L62,46 L62,49 L42,49 Z M42,54 L58,54 L58,57 L42,57 Z" />
+    <!-- Fountain pen nib in warm gold & deep ink -->
+    <path
+        android:fillColor="#D4A373"
+        android:pathData="M68,46 L76,54 L56,74 L46,76 L48,66 Z" />
+    <path
+        android:fillColor="#1B4332"
+        android:pathData="M46,76 L51,71 L53,73 Z" />
+    <path
+        android:fillColor="#1B4332"
+        android:pathData="M60,57 C61.2,57 62.2,58 62.2,59.2 C62.2,60.4 61.2,61.4 60,61.4 C58.8,61.4 57.8,60.4 57.8,59.2 C57.8,58 58.8,57 60,57 Z" />
+</vector>

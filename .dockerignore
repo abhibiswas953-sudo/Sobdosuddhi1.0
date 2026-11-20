@@ -1,0 +1,14 @@
+.gradle
+.kotlin
+.git
+.env
+app
+build
+gradle
+docs
+public
+debug.keystore
+debug.keystore.base64
+*.apk
+*.iml
+node_modules

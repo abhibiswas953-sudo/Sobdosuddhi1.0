@@ -1,0 +1,17 @@
+{
+  "name": "sobdosuddhi-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Sobdosuddhi 1.0 server-side Gemini AI proxy and Android Debug APK download portal",
+  "main": "server/sobdosuddhi-proxy.mjs",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "dev": "node server/sobdosuddhi-proxy.mjs",
+    "build": "node --check server/sobdosuddhi-proxy.mjs",
+    "start": "node server/sobdosuddhi-proxy.mjs",
+    "lint": "node --check server/sobdosuddhi-proxy.mjs"
+  }
+}

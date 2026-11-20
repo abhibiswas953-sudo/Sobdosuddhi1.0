@@ -1,0 +1,6 @@
+{
+  "name": "Sobdosuddhi 1.0",
+  "description": "Advanced native Android Bengali manuscript proofreading, AI writing analysis, human-style language refinement, and manuscript management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
